@@ -1,2 +1,2 @@
-# node_template_prj
+# node template project
 My node template project with: jest, eslint
