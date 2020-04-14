@@ -19,6 +19,8 @@
     "no-plusplus": "off",
     "no-console": "off",
     "import/extensions": "off",
-    "max-len": "off"
+    "max-len": "off",
+    "no-restricted-syntax": "warn",
+    "guard-for-in": "warn"
   }
 }
